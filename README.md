@@ -10,6 +10,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="50" height="50">
   <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="50" height="50">
   <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="50" height="50">
+  <img src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" width="50" height="50">
 </div>
 
 ## Codewars status
@@ -20,7 +21,6 @@
 
 ## Main os
 
-<img src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" width="50" height="50">
 
 - 👀 I’m interested in work with Javascript on web development
 - 💞️ I’m looking to collaborate on web development
