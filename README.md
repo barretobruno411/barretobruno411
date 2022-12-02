@@ -5,9 +5,11 @@
 ### React
 ### Node
 
-==============================================================================
+##Codewars status
 
 ![Codewars badge](https://www.codewars.com/users/barretobruno411/badges/large)
+
+[Codewars profile](https://www.codewars.com/users/barretobruno411)
 
 - 👋 Hi, I’m @barretobruno411
 - 👀 I’m interested in work with Javascript on web development
