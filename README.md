@@ -1,8 +1,6 @@
-# Bruno Barreto Duarte
+# 👋 Hi, I’m @barretobruno411
 
-### 👋 Hi, I’m @barretobruno411
-
-## Javascript Developer
+## Web developer
 
 <div display="flex" align-items="center">
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50" height="50">
